@@ -1,2 +1,5 @@
 streamlit==1.11.1
 PyAutoGUI==0.9.53
+MouseInfo==0.1.3
+pyperclip==1.8.2
+
