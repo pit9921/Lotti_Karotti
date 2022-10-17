@@ -5,7 +5,7 @@ import streamlit as st
 import os
 import random
 from PIL import Image
-import pyautogui
+#import pyautogui
 
 imgExtension = ["png", "jpeg", "jpg"] #Image Extensions to be chosen from
 allImages = list()
@@ -57,13 +57,14 @@ st.markdown("""
 image = Image.open('./Images/' + str(randomImage))
 
 import time
-time.sleep(2)
+time.sleep(1.5)
 st.image(image)
 
 
  
 if st.button("Nächste"):
-    pyautogui.hotkey("ctrl","F5")
+#    pyautogui.hotkey("ctrl","F5")
+     st.experimental_rerun()
 
 
 # Remove “Made with Streamlit” from bottom of app
@@ -77,7 +78,3 @@ st.markdown(hide_streamlit_style, unsafe_allow_html=True)
 
 
 # %%
-
-
-
-
