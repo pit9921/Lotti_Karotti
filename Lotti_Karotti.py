@@ -57,7 +57,7 @@ st.markdown("""
 image = Image.open('./Images/' + str(randomImage))
 
 import time
-time.sleep(0.5)
+#time.sleep(0.5)
 st.image(image)
 
 
