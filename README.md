@@ -9,6 +9,7 @@ or
 
 ![grafik](https://user-images.githubusercontent.com/77811022/196270269-36fc52ad-8750-429b-9798-bd8f01e47e47.png)
 
+---------------------------------------------------------------------------------------------
 
 ![grafik](https://user-images.githubusercontent.com/77811022/196269811-3770ba25-9611-4ce4-bb83-825e3cbc44b7.png)
 
