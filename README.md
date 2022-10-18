@@ -4,6 +4,8 @@
 The cards for the game do not have to be drawn manually, but are displayed in random order in the app.
 The motivation was to facilitate play for underage children.
 
+The advantage of this automation would also be that one would be able to determine the ratio among the cards by copying the "cards" (images) at pleasure / wish.
+
 Link to the App: https://pit9921-lotti-karotti-lotti-karotti-aoh9rz.streamlitapp.com/
 
 or
