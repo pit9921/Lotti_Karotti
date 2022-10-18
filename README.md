@@ -1,4 +1,4 @@
-# Lotti_Karotti
+# Lotti_Karotti / Funny Bunny 
 
 -----
 The playing cards for the game do not have to be drawn manually, but are displayed in random order in the app.
